@@ -7,12 +7,11 @@ import {
 import Home from "./routes/Home";
 import Detail from "./routes/Detail";
 
-
 function App() {
   return <Router>
     <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/movie" element={<Detail />} />
+      <Route path="/ReactPractice" element={<Home />} />
+      <Route path="/ReactPractice/movie" element={<Detail />} />
     </Routes>
   </Router>;
 }
