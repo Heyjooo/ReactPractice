@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/localhost:3000/ReactPracticeReactPractice/static/js/main.beade86b.js",
-    "index.html": "/localhost:3000/ReactPracticeReactPractice/index.html",
-    "main.beade86b.js.map": "/localhost:3000/ReactPracticeReactPractice/static/js/main.beade86b.js.map"
+    "main.js": "/localhost:3000/ReactPractice/static/js/main.beade86b.js",
+    "index.html": "/localhost:3000/ReactPractice/index.html",
+    "main.beade86b.js.map": "/localhost:3000/ReactPractice/static/js/main.beade86b.js.map"
   },
   "entrypoints": [
     "static/js/main.beade86b.js"
