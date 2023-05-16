@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/localhost:3000/ReactPractice/static/js/main.ee19674a.js",
-    "index.html": "/localhost:3000/ReactPractice/index.html",
-    "main.ee19674a.js.map": "/localhost:3000/ReactPractice/static/js/main.ee19674a.js.map"
+    "main.js": "/ReactPractice/static/js/main.122db817.js",
+    "index.html": "/ReactPractice/index.html",
+    "main.122db817.js.map": "/ReactPractice/static/js/main.122db817.js.map"
   },
   "entrypoints": [
-    "static/js/main.ee19674a.js"
+    "static/js/main.122db817.js"
   ]
 }
