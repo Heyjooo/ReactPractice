@@ -10,8 +10,8 @@ import Detail from "./routes/Detail";
 function App() {
   return <Router>
     <Routes>
-      <Route path="/ReactPractice" element={<Home />} />
-      <Route path="/ReactPractice/movie" element={<Detail />} />
+      <Route  path={`${process.env.PUBLIC_URL}/`} element={<Home />} />
+      <Route  path={`${process.env.PUBLIC_URL}/movie`} element={<Detail />} />
     </Routes>
   </Router>;
 }
